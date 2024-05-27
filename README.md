@@ -1,1 +1,2 @@
-# Code_Alpha_Google-Stock-Price-Prediction
+# Google-Stock-Price-Prediction
+
